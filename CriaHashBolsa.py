@@ -1,5 +1,5 @@
 # coding=utf-8
-#Código escrito em colaboração por Leonardo Izaú e Mariana Fortes.
+#Código escrito em colaboração por Leonardo Izaú (@Vladek96) e Mariana Fortes (@MarianaFortes).
 
 import struct
 import hashlib
